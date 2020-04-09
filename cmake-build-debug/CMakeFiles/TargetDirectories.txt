@@ -1,0 +1,3 @@
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/Tex_Quotes_272/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/Tex_Quotes_272/cmake-build-debug/CMakeFiles/Tex_Quotes_272.dir
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/Tex_Quotes_272/cmake-build-debug/CMakeFiles/edit_cache.dir

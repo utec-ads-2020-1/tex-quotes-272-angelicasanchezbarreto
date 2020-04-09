@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tex_Quotes_272.dir/main.cpp.o  -o Tex_Quotes_272 
